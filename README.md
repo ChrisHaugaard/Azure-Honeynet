@@ -13,6 +13,7 @@ The recording of this lab will be over two 48 hour periods where I will record a
 - Microsoft Sentinel
 - Network Security Gateway
 - KQL
+- NIST 800-53 R5
 
 <h1>Unsecure Environment</h1>
 <h2>Maps Unsecured</h2>
@@ -81,7 +82,7 @@ Stop Time: 2023-09-25 21:46:38
 
 
 <h2>Conclusion</h2>
-<br></br>
-<br></br>
+I created an unsecure honeynet in azure recorded the results and incidents using log analytics workspace and microsoft sentinel. I then secured the environment and recorded again for the next two days. The security controls applied to the honeynet were able to successfully create a secure environment. The recording after the security controls were applied showed that by almost 100% across all metrics went down including stopping brute force attempts against the Linux vm, Windows vm, and mysql server.
+<br>By using security controls available in Azure and best policies according to Nist 800-53 R5 I was able to secure the honeynet I created in Azure.</br>
 
 
