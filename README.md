@@ -1,4 +1,4 @@
-# Azure-Honeypot
+# Azure-Honeynet
 <h2>Introduction</h2>
 <br>In this lab, I built a honeynet in Azure. All the logs will be sent to log analytics workspace where they will be utilized by Microsoft Sentinel. This will allow me to see all the different types of logs ingested to build the attack maps, create alerts, and manage incidents. </br>
 The recording of this lab will be over two 48 hour periods where I will record an insecure environment apply security controls and then record the next 48 hours.
