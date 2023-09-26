@@ -5,8 +5,8 @@
 
 <h1>Unsecure Environment</h1>
 <h2>Architecture Unsecured</h2>
-<br>
-</br>
+
+![UNSECURE_Azure](https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/62dfa11f-d0c5-4aeb-826d-325276659d4a)
 
 <h2>Maps Unsecured</h2>
 <br><img width="926" alt="Windows-rdp" src="https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/8f280738-69e0-4c92-9523-f257660e6e7c"></br>
@@ -31,7 +31,10 @@ Stop Time: 2023-09-20 21:16:46
 
 <h1>Secured Environment</h1>
 <h2>Architecture After Securing</h2>
-<br></br>
+
+![AzureHoneypot_Secured](https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/ee13270f-78c9-43be-abb3-27234d43efa0)
+
+
 <br></br>
 
 <h2>Maps After Securing</h2>
@@ -63,7 +66,6 @@ Stop Time: 2023-09-25 21:46:38
 <br>SecurityIncident -100%</br>
 <br>NSG Inbound Malicious Flows Allowed -100%</br>
 <br>While SecurityEvents only increased by ~74% the alerts that were created were expected and not something that is required to get rid of. The security posture of the environment increased by about 100% in most categories and including what was seen with Security Event I believe it is ~100% across all metrics.</br>
-<br></br>
 
 <h2>Security controls</h2>
 <b></b>
