@@ -4,7 +4,7 @@
 The recording of this lab will be over two 48 hour periods where I will record an insecure environment apply security controls and then record the next 48 hours.
 <br>In this lab I will be utilizing: </br> 
 
-- Windows VM- Running Mysql server
+- Windows VM- Running Mssql server
 - Linux VM
 - Azure Key Vault
 - Azure Storace Account
@@ -35,14 +35,7 @@ Stop Time: 2023-09-20 21:16:46
 <br>SecurityIncident: Incident created by Sentinel</br>
 <br>*A significant number of the total alerts are brute force attempts against the windows and linux virtual machines</br>
 
-<h2>Architecture Unsecured</h2>
-
-![UNSECURE_Azure](https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/62dfa11f-d0c5-4aeb-826d-325276659d4a)
-
 <h1>Secured Environment</h1>
-<h2>Architecture After Securing</h2>
-
-![AzureHoneypot_Secured](https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/ee13270f-78c9-43be-abb3-27234d43efa0)
 
 <h2>Metrics After Securing</h2>
 <b>Metrics recieved during the 48 hour secured period</b>
