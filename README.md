@@ -16,12 +16,6 @@ The recording of this lab will be over two 48 hour periods where I will record a
 - NIST 800-53 R5
 
 <h1>Unsecure Environment</h1>
-<h2>Maps Unsecured</h2>
-<br><img width="926" alt="Windows-rdp" src="https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/8f280738-69e0-4c92-9523-f257660e6e7c"></br>
-<br><img width="883" alt="linux-auth-fail" src="https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/8e65aa63-bcf6-4965-9260-21f934bf7953"></br>
-<br><img width="817" alt="mssql-auth" src="https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/e5360a2b-e6a8-400f-967b-4281a82f9017"></br>
-<br><img width="820" alt="nsg-allowed" src="https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/588b4829-ed22-462d-8e59-c7c62a3743bd"></br>
-
 <h2>Metrics Unsecure</h2>
 <b>Metrics recieved during the 48 hour unsecured period</b>
 <br>Start Time: 2023-09-18 21:16:46</br>
@@ -49,9 +43,6 @@ Stop Time: 2023-09-20 21:16:46
 <h2>Architecture After Securing</h2>
 
 ![AzureHoneypot_Secured](https://github.com/ChrisHaugaard/Azure-Honeypot/assets/140214520/ee13270f-78c9-43be-abb3-27234d43efa0)
-
-<h2>Maps After Securing</h2>
-There are no maps to provide as after securing there was nothing recorded
 
 <h2>Metrics After Securing</h2>
 <b>Metrics recieved during the 48 hour secured period</b>
